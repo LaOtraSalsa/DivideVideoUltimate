@@ -11,7 +11,7 @@ This version requires **ffmpeg** to be installed on your Mac.
    ```bash
    brew install ffmpeg
 
----
+### Y DESPUÉS PODRÁS USAR ESTA APP
 
 👉 **[⬇️ Descargar la última versión](https://github.com/LaOtraSalsa/DivideVideoUltimate/releases/latest)**  
 Download the latest version  
