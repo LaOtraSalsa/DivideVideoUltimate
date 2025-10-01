@@ -46,12 +46,22 @@ Results are saved on your Desktop:
 4. When finished, open the `DivideOutputs` folder to see your files.  
 
 ---
+## ⚠️ Compatibilidad / Compatibility
 
 🌍 **Actualmente:**  
 DivideVideoUltimate funciona únicamente en **macOS** (MacBook, iMac, Mac mini), ya que utiliza AppleScript (`osascript`) para mostrar ventanas interactivas y controlar los procesos de video.  
 
 ✅ Compatible con Macs Intel y Apple Silicon (M1, M2, M3).  
 ⚠️ No disponible todavía para Windows, Linux o iOS.  
+
+---
+
+🌍 **Future / Futuro:**  
+Si existe suficiente interés de la comunidad, el proyecto se extenderá a:  
+- 📱 **iPhone (iOS)**: versión móvil para editar videos directamente desde el celular.  
+- 💻 **Windows y Linux**: versiones multiplataforma usando frameworks como Electron o Flutter junto con ffmpeg.  
+
+🙌 Tu retroalimentación y apoyo ayudarán a definir las próximas plataformas.
 
 
 ---
