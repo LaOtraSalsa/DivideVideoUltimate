@@ -47,6 +47,16 @@ Results are saved on your Desktop:
 
 ---
 
+🌍 **Actualmente:**  
+DivideVideoUltimate funciona únicamente en **macOS** (MacBook, iMac, Mac mini), ya que utiliza AppleScript (`osascript`) para mostrar ventanas interactivas y controlar los procesos de video.  
+
+✅ Compatible con Macs Intel y Apple Silicon (M1, M2, M3).  
+⚠️ No disponible todavía para Windows, Linux o iOS.  
+
+
+---
+
+
 ## 📜 Changelog / Historial  
 - **v9.16.0**: versión interna básica / basic split  
 - **v9.17.0**: añade fades y mejoras en logs / added fades + logs  
