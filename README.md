@@ -1,4 +1,17 @@
-# 📦 DivideVideoUltimate v9.19.1
+# 📦 DivideVideoUltimate v9.19.1  
+
+⚠️ **Nota importante / Important Note**  
+Esta versión requiere que tengas instalado **ffmpeg** en tu Mac.  
+This version requires **ffmpeg** to be installed on your Mac.  
+
+### 🖥️ Instalación en macOS / Installation on macOS  
+1. Instala [Homebrew](https://brew.sh) si no lo tienes.  
+2. Abre la aplicación **Terminal** y escribe / Open **Terminal** and type:  
+
+   ```bash
+   brew install ffmpeg
+
+---
 
 👉 **[⬇️ Descargar la última versión](https://github.com/LaOtraSalsa/DivideVideoUltimate/releases/latest)**  
 Download the latest version  
